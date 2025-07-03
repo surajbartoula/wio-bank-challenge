@@ -24,7 +24,7 @@ A Python application that automatically scans your emails for credit card statem
 
 3. **Run the Application**:
    ```bash
-   python main.py
+   python main.py or pipenv run python main.py
    ```
 
 ## Configuration
